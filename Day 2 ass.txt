@@ -1,0 +1,20 @@
+create a class calculator with 3 instance method
+1.public float sqr(floatno) return no*n0
+2) public double product (int a,double b)
+3) public int sum(int a,float b)
+
+create a static class mymath with following static method
+1. public static double cube(double no);
+2. public static int add(int a,int b)
+3. public static int fact(int no);
+ 
+
+namespace
+1. create a namespace calculator with a class mymath having two method add and subtract in the same application create another namespace advanced calculator with class name mymath having method square and cube. In entry point class call all the method. 
+
+
+Library
+create class library myapplication with following class(take ass in this class library mymath create entry point & call it)
+
+
+open your application iadasl and read il code 

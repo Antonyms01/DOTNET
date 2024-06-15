@@ -1,0 +1,14 @@
+D:\Coding\.net\Day 7\demo2\bin\Debug\net8.0\demo2.exe
+D:\Coding\.net\Day 7\demo2\bin\Debug\net8.0\demo2.deps.json
+D:\Coding\.net\Day 7\demo2\bin\Debug\net8.0\demo2.runtimeconfig.json
+D:\Coding\.net\Day 7\demo2\bin\Debug\net8.0\demo2.dll
+D:\Coding\.net\Day 7\demo2\bin\Debug\net8.0\demo2.pdb
+D:\Coding\.net\Day 7\demo2\obj\Debug\net8.0\demo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\.net\Day 7\demo2\obj\Debug\net8.0\demo2.AssemblyInfoInputs.cache
+D:\Coding\.net\Day 7\demo2\obj\Debug\net8.0\demo2.AssemblyInfo.cs
+D:\Coding\.net\Day 7\demo2\obj\Debug\net8.0\demo2.csproj.CoreCompileInputs.cache
+D:\Coding\.net\Day 7\demo2\obj\Debug\net8.0\demo2.dll
+D:\Coding\.net\Day 7\demo2\obj\Debug\net8.0\refint\demo2.dll
+D:\Coding\.net\Day 7\demo2\obj\Debug\net8.0\demo2.pdb
+D:\Coding\.net\Day 7\demo2\obj\Debug\net8.0\demo2.genruntimeconfig.cache
+D:\Coding\.net\Day 7\demo2\obj\Debug\net8.0\ref\demo2.dll

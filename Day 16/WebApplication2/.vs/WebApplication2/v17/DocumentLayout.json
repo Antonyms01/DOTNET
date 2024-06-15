@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\.net\\Day 16\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{363FAB39-8187-4BCB-B141-F0D5312859B1}|WebApplication2.csproj|d:\\coding\\.net\\day 16\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FAB39-8187-4BCB-B141-F0D5312859B1}|WebApplication2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FAB39-8187-4BCB-B141-F0D5312859B1}|WebApplication2.csproj|d:\\coding\\.net\\day 16\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{363FAB39-8187-4BCB-B141-F0D5312859B1}|WebApplication2.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FAB39-8187-4BCB-B141-F0D5312859B1}|WebApplication2.csproj|d:\\coding\\.net\\day 16\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FAB39-8187-4BCB-B141-F0D5312859B1}|WebApplication2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FAB39-8187-4BCB-B141-F0D5312859B1}|WebApplication2.csproj|d:\\coding\\.net\\day 16\\webapplication2\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FAB39-8187-4BCB-B141-F0D5312859B1}|WebApplication2.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FAB39-8187-4BCB-B141-F0D5312859B1}|WebApplication2.csproj|d:\\coding\\.net\\day 16\\webapplication2\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{363FAB39-8187-4BCB-B141-F0D5312859B1}|WebApplication2.csproj|solutionrelative:views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FAB39-8187-4BCB-B141-F0D5312859B1}|WebApplication2.csproj|d:\\coding\\.net\\day 16\\webapplication2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FAB39-8187-4BCB-B141-F0D5312859B1}|WebApplication2.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FAB39-8187-4BCB-B141-F0D5312859B1}|WebApplication2.csproj|d:\\coding\\.net\\day 16\\webapplication2\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FAB39-8187-4BCB-B141-F0D5312859B1}|WebApplication2.csproj|solutionrelative:controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FAB39-8187-4BCB-B141-F0D5312859B1}|WebApplication2.csproj|d:\\coding\\.net\\day 16\\webapplication2\\services\\sqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FAB39-8187-4BCB-B141-F0D5312859B1}|WebApplication2.csproj|solutionrelative:services\\sqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363FAB39-8187-4BCB-B141-F0D5312859B1}|WebApplication2.csproj|d:\\coding\\.net\\day 16\\webapplication2\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363FAB39-8187-4BCB-B141-F0D5312859B1}|WebApplication2.csproj|solutionrelative:services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "D:\\Coding\\.net\\Day 16\\WebApplication2\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmpController.cs",
+              "ToolTip": "D:\\Coding\\.net\\Day 16\\WebApplication2\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "Controllers\\EmpController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:48:50.503Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Coding\\.net\\Day 16\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Coding\\.net\\Day 16\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T09:20:06.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Coding\\.net\\Day 16\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Coding\\.net\\Day 16\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:18:32.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Coding\\.net\\Day 16\\WebApplication2\\Views\\Emp\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Emp\\Index.cshtml",
+              "ToolTip": "D:\\Coding\\.net\\Day 16\\WebApplication2\\Views\\Emp\\Index.cshtml",
+              "RelativeToolTip": "Views\\Emp\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T08:49:23.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\.net\\Day 16\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Coding\\.net\\Day 16\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:39:38.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SqlServer.cs",
+              "DocumentMoniker": "D:\\Coding\\.net\\Day 16\\WebApplication2\\Services\\SqlServer.cs",
+              "RelativeDocumentMoniker": "Services\\SqlServer.cs",
+              "ToolTip": "D:\\Coding\\.net\\Day 16\\WebApplication2\\Services\\SqlServer.cs",
+              "RelativeToolTip": "Services\\SqlServer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:30:42.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Appdbcontext.cs",
+              "DocumentMoniker": "D:\\Coding\\.net\\Day 16\\WebApplication2\\Models\\Appdbcontext.cs",
+              "RelativeDocumentMoniker": "Models\\Appdbcontext.cs",
+              "ToolTip": "D:\\Coding\\.net\\Day 16\\WebApplication2\\Models\\Appdbcontext.cs",
+              "RelativeToolTip": "Models\\Appdbcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:35:18.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Iservice.cs",
+              "DocumentMoniker": "D:\\Coding\\.net\\Day 16\\WebApplication2\\Services\\Iservice.cs",
+              "RelativeDocumentMoniker": "Services\\Iservice.cs",
+              "ToolTip": "D:\\Coding\\.net\\Day 16\\WebApplication2\\Services\\Iservice.cs",
+              "RelativeToolTip": "Services\\Iservice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:28:49.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Coding\\.net\\Day 16\\WebApplication2\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\Coding\\.net\\Day 16\\WebApplication2\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:26:16.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

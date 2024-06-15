@@ -1,0 +1,4 @@
+D:\Coding\.net\Day 4\Q3\obj\Debug\net8.0\Q3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\.net\Day 4\Q3\obj\Debug\net8.0\Q3.AssemblyInfoInputs.cache
+D:\Coding\.net\Day 4\Q3\obj\Debug\net8.0\Q3.AssemblyInfo.cs
+D:\Coding\.net\Day 4\Q3\obj\Debug\net8.0\Q3.csproj.CoreCompileInputs.cache

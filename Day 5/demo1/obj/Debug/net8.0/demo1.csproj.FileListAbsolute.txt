@@ -1,0 +1,11 @@
+D:\Coding\.net\Day 5\demo1\bin\Debug\net8.0\demo1.deps.json
+D:\Coding\.net\Day 5\demo1\bin\Debug\net8.0\demo1.dll
+D:\Coding\.net\Day 5\demo1\bin\Debug\net8.0\demo1.pdb
+D:\Coding\.net\Day 5\demo1\obj\Debug\net8.0\demo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\.net\Day 5\demo1\obj\Debug\net8.0\demo1.AssemblyInfoInputs.cache
+D:\Coding\.net\Day 5\demo1\obj\Debug\net8.0\demo1.AssemblyInfo.cs
+D:\Coding\.net\Day 5\demo1\obj\Debug\net8.0\demo1.csproj.CoreCompileInputs.cache
+D:\Coding\.net\Day 5\demo1\obj\Debug\net8.0\demo1.dll
+D:\Coding\.net\Day 5\demo1\obj\Debug\net8.0\refint\demo1.dll
+D:\Coding\.net\Day 5\demo1\obj\Debug\net8.0\demo1.pdb
+D:\Coding\.net\Day 5\demo1\obj\Debug\net8.0\ref\demo1.dll

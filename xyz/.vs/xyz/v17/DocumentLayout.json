@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\.net\\xyz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B961CA-F1E5-45FD-9B61-F58275D6183D}|xyz\\xyz.csproj|d:\\coding\\.net\\xyz\\xyz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B961CA-F1E5-45FD-9B61-F58275D6183D}|xyz\\xyz.csproj|solutionrelative:xyz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B961CA-F1E5-45FD-9B61-F58275D6183D}|xyz\\xyz.csproj|d:\\coding\\.net\\xyz\\xyz\\empdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B961CA-F1E5-45FD-9B61-F58275D6183D}|xyz\\xyz.csproj|solutionrelative:xyz\\empdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B961CA-F1E5-45FD-9B61-F58275D6183D}|xyz\\xyz.csproj|d:\\coding\\.net\\xyz\\xyz\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B961CA-F1E5-45FD-9B61-F58275D6183D}|xyz\\xyz.csproj|solutionrelative:xyz\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B961CA-F1E5-45FD-9B61-F58275D6183D}|xyz\\xyz.csproj|d:\\coding\\.net\\xyz\\xyz\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B961CA-F1E5-45FD-9B61-F58275D6183D}|xyz\\xyz.csproj|solutionrelative:xyz\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Coding\\.net\\xyz\\xyz\\Class1.cs",
+              "RelativeDocumentMoniker": "xyz\\Class1.cs",
+              "ToolTip": "D:\\Coding\\.net\\xyz\\xyz\\Class1.cs",
+              "RelativeToolTip": "xyz\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T03:52:56.133Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "emp.cs",
+              "DocumentMoniker": "D:\\Coding\\.net\\xyz\\xyz\\Models\\emp.cs",
+              "RelativeDocumentMoniker": "xyz\\Models\\emp.cs",
+              "ToolTip": "D:\\Coding\\.net\\xyz\\xyz\\Models\\emp.cs",
+              "RelativeToolTip": "xyz\\Models\\emp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T07:00:49.487Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpDAL.cs",
+              "DocumentMoniker": "D:\\Coding\\.net\\xyz\\xyz\\EmpDAL.cs",
+              "RelativeDocumentMoniker": "xyz\\EmpDAL.cs",
+              "ToolTip": "D:\\Coding\\.net\\xyz\\xyz\\EmpDAL.cs",
+              "RelativeToolTip": "xyz\\EmpDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T06:58:31.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\.net\\xyz\\xyz\\Program.cs",
+              "RelativeDocumentMoniker": "xyz\\Program.cs",
+              "ToolTip": "D:\\Coding\\.net\\xyz\\xyz\\Program.cs",
+              "RelativeToolTip": "xyz\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:38:32.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

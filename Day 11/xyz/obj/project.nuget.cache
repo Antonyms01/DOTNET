@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "dgSpecHash": "UgjVJN1FgBFCuo9/a8OYYQES2Q8HmuZK68hvkY83HjxjCXpIFJQLukjO0NXecR2DZOvy5mJZSzyhBFobszG32Q==",
+  "success": true,
+  "projectFilePath": "D:\\Coding\\.net\\Day 11\\xyz\\xyz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sohan\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0-preview.4.22229.4\\microsoft.extensions.configuration.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\Sohan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0-preview.4.22229.4\\microsoft.extensions.configuration.abstractions.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\Sohan\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\7.0.0-preview.4.22229.4\\microsoft.extensions.configuration.fileextensions.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\Sohan\\.nuget\\packages\\microsoft.extensions.configuration.json\\7.0.0-preview.4.22229.4\\microsoft.extensions.configuration.json.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\Sohan\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0-preview.4.22229.4\\microsoft.extensions.fileproviders.abstractions.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\Sohan\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\7.0.0-preview.4.22229.4\\microsoft.extensions.fileproviders.physical.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\Sohan\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\7.0.0-preview.4.22229.4\\microsoft.extensions.filesystemglobbing.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\Sohan\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0-preview.4.22229.4\\microsoft.extensions.primitives.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\Sohan\\.nuget\\packages\\system.text.encodings.web\\7.0.0-preview.4.22229.4\\system.text.encodings.web.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\Sohan\\.nuget\\packages\\system.text.json\\7.0.0-preview.4.22229.4\\system.text.json.7.0.0-preview.4.22229.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "xyz depends on Microsoft.Extensions.Configuration.FileExtensions (>= 7.0.0-preview.3.24172.9) but Microsoft.Extensions.Configuration.FileExtensions 7.0.0-preview.3.24172.9 was not found. An approximate best match of Microsoft.Extensions.Configuration.FileExtensions 7.0.0-preview.4.22229.4 was resolved.",
+      "libraryId": "Microsoft.Extensions.Configuration.FileExtensions",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "xyz depends on Microsoft.Extensions.Configuration.Json (>= 7.0.0-preview.3.24172.9) but Microsoft.Extensions.Configuration.Json 7.0.0-preview.3.24172.9 was not found. An approximate best match of Microsoft.Extensions.Configuration.Json 7.0.0-preview.4.22229.4 was resolved.",
+      "libraryId": "Microsoft.Extensions.Configuration.Json",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

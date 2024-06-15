@@ -1,0 +1,14 @@
+D:\Coding\.net\Day 8\revised\bin\Debug\net8.0\revised.exe
+D:\Coding\.net\Day 8\revised\bin\Debug\net8.0\revised.deps.json
+D:\Coding\.net\Day 8\revised\bin\Debug\net8.0\revised.runtimeconfig.json
+D:\Coding\.net\Day 8\revised\bin\Debug\net8.0\revised.dll
+D:\Coding\.net\Day 8\revised\bin\Debug\net8.0\revised.pdb
+D:\Coding\.net\Day 8\revised\obj\Debug\net8.0\revised.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\.net\Day 8\revised\obj\Debug\net8.0\revised.AssemblyInfoInputs.cache
+D:\Coding\.net\Day 8\revised\obj\Debug\net8.0\revised.AssemblyInfo.cs
+D:\Coding\.net\Day 8\revised\obj\Debug\net8.0\revised.csproj.CoreCompileInputs.cache
+D:\Coding\.net\Day 8\revised\obj\Debug\net8.0\revised.dll
+D:\Coding\.net\Day 8\revised\obj\Debug\net8.0\refint\revised.dll
+D:\Coding\.net\Day 8\revised\obj\Debug\net8.0\revised.pdb
+D:\Coding\.net\Day 8\revised\obj\Debug\net8.0\revised.genruntimeconfig.cache
+D:\Coding\.net\Day 8\revised\obj\Debug\net8.0\ref\revised.dll

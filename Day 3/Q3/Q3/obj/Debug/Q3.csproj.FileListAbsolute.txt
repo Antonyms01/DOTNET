@@ -1,0 +1,7 @@
+D:\Coding\.net\Day 3\Q3\Q3\bin\Debug\Q3.exe.config
+D:\Coding\.net\Day 3\Q3\Q3\bin\Debug\Q3.exe
+D:\Coding\.net\Day 3\Q3\Q3\bin\Debug\Q3.pdb
+D:\Coding\.net\Day 3\Q3\Q3\obj\Debug\Q3.csproj.AssemblyReference.cache
+D:\Coding\.net\Day 3\Q3\Q3\obj\Debug\Q3.csproj.CoreCompileInputs.cache
+D:\Coding\.net\Day 3\Q3\Q3\obj\Debug\Q3.exe
+D:\Coding\.net\Day 3\Q3\Q3\obj\Debug\Q3.pdb

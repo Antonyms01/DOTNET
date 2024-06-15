@@ -1,0 +1,7 @@
+D:\Coding\.net\Day 3\Q1\Q1\bin\Debug\Q1.exe.config
+D:\Coding\.net\Day 3\Q1\Q1\bin\Debug\Q1.exe
+D:\Coding\.net\Day 3\Q1\Q1\bin\Debug\Q1.pdb
+D:\Coding\.net\Day 3\Q1\Q1\obj\Debug\Q1.csproj.AssemblyReference.cache
+D:\Coding\.net\Day 3\Q1\Q1\obj\Debug\Q1.csproj.CoreCompileInputs.cache
+D:\Coding\.net\Day 3\Q1\Q1\obj\Debug\Q1.exe
+D:\Coding\.net\Day 3\Q1\Q1\obj\Debug\Q1.pdb

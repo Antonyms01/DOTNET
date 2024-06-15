@@ -1,0 +1,14 @@
+d:\Coding\.net\Day 4\Q2\bin\Debug\net8.0\Q2.exe
+d:\Coding\.net\Day 4\Q2\bin\Debug\net8.0\Q2.deps.json
+d:\Coding\.net\Day 4\Q2\bin\Debug\net8.0\Q2.runtimeconfig.json
+d:\Coding\.net\Day 4\Q2\bin\Debug\net8.0\Q2.dll
+d:\Coding\.net\Day 4\Q2\bin\Debug\net8.0\Q2.pdb
+d:\Coding\.net\Day 4\Q2\obj\Debug\net8.0\Q2.GeneratedMSBuildEditorConfig.editorconfig
+d:\Coding\.net\Day 4\Q2\obj\Debug\net8.0\Q2.AssemblyInfoInputs.cache
+d:\Coding\.net\Day 4\Q2\obj\Debug\net8.0\Q2.AssemblyInfo.cs
+d:\Coding\.net\Day 4\Q2\obj\Debug\net8.0\Q2.csproj.CoreCompileInputs.cache
+d:\Coding\.net\Day 4\Q2\obj\Debug\net8.0\Q2.dll
+d:\Coding\.net\Day 4\Q2\obj\Debug\net8.0\refint\Q2.dll
+d:\Coding\.net\Day 4\Q2\obj\Debug\net8.0\Q2.pdb
+d:\Coding\.net\Day 4\Q2\obj\Debug\net8.0\Q2.genruntimeconfig.cache
+d:\Coding\.net\Day 4\Q2\obj\Debug\net8.0\ref\Q2.dll
